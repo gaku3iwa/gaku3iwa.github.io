@@ -1,6 +1,6 @@
-## ポンコツのページへようこそ
+## ポンコツ工房へようこそ
 
-### 現在公開中のサンプルページへのリンク
+### 公開中のサンプルへのリンク
 
 * [MML](https://gaku3iwa.github.io/node.mml)
   * [概要説明](https://github.com/gaku3iwa/node.mml#readme)
